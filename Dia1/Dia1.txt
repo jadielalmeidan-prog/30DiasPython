@@ -1,0 +1,35 @@
+Exercicios - Dia 1
+Exercicio: Level 1
+Cheque a versão do python que você esta usando
+Abra o shell interativo python e execute as seguintes operações. Os operandos são 3 e 4.
+
+adição(+)
+subtração(-)
+multiplicação(*)
+modulo(%)
+divisão(/)
+exponencial(**)
+Divisão inteira(//)
+
+Escreva strings no shell interativo python. As strings são as seguintes:
+
+Seu nome
+Seu sobrenome
+Seu país
+Eu estou aproveitando o 30 dias de python
+Verifique os tipos de dados dos seguintes dados:
+
+10
+9.8
+3.14
+4 - 4j
+['Asabeneh', 'Python', 'Finland']
+Seu nome
+O seu sobrenome
+Seu país
+
+Exercicio: Level 2
+Crie uma pasta chamada dia_1 dentro da pasta 30DiasDePython. Dentro da pasta day_1, crie um arquivo python helloworld.py e repita as perguntas 1, 2, 3 e 4. Lembre-se de usar print() quando estiver trabalhando em um arquivo python. Navegue até o diretório onde você salvou seu arquivo e execute-o.
+Exercicio: Level 3
+Escreva um exemplo para diferentes tipos de dados Python, como Número (Inteiro, Flutuante, Complex), Strings, Booleanos, Listas, Tuplas, Set e Dicionário.
+Ache a Distancia Euclidiana entre (2, 3) e (10, 8)
