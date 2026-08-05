@@ -67,3 +67,20 @@ def generate_colors(tipo, quant):
             
     return lista_cores
 print(generate_colors("rgb",1))
+
+def shuffle_list(lista):
+    return random.sample(lista, len(lista))
+frutas = ['banana', 'laranja', 'manga', 'limão']
+lista_embaralhada = shuffle_list(frutas)
+
+print(f"Lista original: {frutas}")
+print(f"Lista embaralhada: {lista_embaralhada}")
+
+def random_numbers(quant):
+    lista = set()
+    for i in range(quant):
+        item = random.randint(0,9)
+        lista.add(item)
+    return lista
+print(random_numbers(7))
+
